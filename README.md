@@ -1,2 +1,0 @@
-# SemanticDataTable
-Created with CodeSandbox
